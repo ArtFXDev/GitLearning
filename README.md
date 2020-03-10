@@ -9,4 +9,4 @@ Ce projet, c'est bien plus qu'un projet. Vous voyez, c'est l'oeuvre de toute une
 This project is more than just a project. You see, it's the work of a lifetime. Hard work that is the result of the talent and expertise of thousands of men and women throughout the ages. This project is the culmination of all the craftsmanship developed at ArtFX through the ages.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[WTFPL](http://www.wtfpl.net/txt/copying/)
